@@ -1,0 +1,3 @@
+[submodule "src/MHDDoS"]
+	path = src/MHDDoS
+	url = https://github.com/MHProDev/MHDDoS.git
